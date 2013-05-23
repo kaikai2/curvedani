@@ -1,0 +1,8 @@
+#图片资源接口
+
+= Introduction =
+
+图片资源接口。
+
+
+= Details =

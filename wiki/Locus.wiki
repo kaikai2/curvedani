@@ -1,0 +1,8 @@
+#summary Locus
+
+= Introduction =
+
+Locus轨迹，是描述动画元素([AnimElement])的某个特定状态分量随着控制参数变化的过程。
+
+
+= Details =

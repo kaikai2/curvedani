@@ -1,0 +1,12 @@
+#summary LinearInterpolater
+
+= Introduction =
+
+LinearInterpolater线性插值器，返回包含给定自变量的两组数据的线性插值结果
+
+
+= Details =
+
+ * 模版参数类型需要支持与浮点数(0.0 - 1.0之间)的乘法运算，得到对应比例的衰减值。
+
+ * 模版参数类型需要支持加法运算，得到两值的和。

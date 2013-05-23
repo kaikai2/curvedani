@@ -1,0 +1,8 @@
+#summary KeepMerger
+
+= Introduction =
+
+KeepMerger保持本节点融合器，直接返回本节点自身该状态的值
+
+
+= Details =

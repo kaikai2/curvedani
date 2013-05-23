@@ -1,0 +1,11 @@
+#summary iAnimation
+
+= Introduction =
+
+iAnimation是动画控制接口，它可在运行期间绑定一组动画数据([AnimData])，设置循环播放等。
+
+
+= Details =
+
+通过iSystem::createAnimation创建实例
+使用完毕需使用iSystem::release释放

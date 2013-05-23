@@ -1,0 +1,12 @@
+= iCurveInterpolater =
+插值器接口，用于对给定的数据集求特定时间的插值状态。
+
+预定义了下列插值器：
+  * StepInterpolater 越变型插值器
+  * LinearInterpolater 线性插值器
+  * BsplineInterpolater b样条插值器
+可根据需要再实现自定义的插值器，如：
+  * SinCurveInterpolater 正弦函数曲线插值器
+  * CosCurveInterpolater 余弦函数曲线插值器
+  * CircleInterpolater 圆弧曲线插值器
+等等

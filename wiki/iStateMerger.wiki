@@ -1,0 +1,10 @@
+#summary iStateMerger
+
+= Introduction =
+
+iStateMerger 节点继承状态融合器接口
+可自行定义对父子节点之间某种状态的数据的融合方式
+
+= Details =
+
+需要提供融合器的唯一名称用于识别。

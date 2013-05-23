@@ -1,0 +1,4 @@
+#summary One-sentence summary of this page.
+
+= iSystem =
+Singleton的工厂接口，用于提供其他接口的访问、资源的创建和维护工作。

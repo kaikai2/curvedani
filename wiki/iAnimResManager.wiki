@@ -1,0 +1,7 @@
+#summary iAnimResManager
+
+= Introduction =
+
+iAnimResManager是动画数据([AnimData])的管理器，可用于加载和缓存动画数据。
+
+= Details =

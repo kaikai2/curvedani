@@ -1,0 +1,32 @@
+设计中，粗略定义下列接口
+用户需要实现下列接口
+  * [iByteStream] 数据流文件接口
+  * [iCurveDataSet] 数据集接口
+  * [iCurveInterpolater] 插值器接口
+  * [iStateMerger] 节点继承状态融合器接口
+  * [iClipState] 渲染参数接口
+  * [iRenderer] 渲染器接口
+  * [iSystem] 系统接口
+  * [iTexture] 位图纹理资源接口
+
+内部定义的接口
+  * [iAnimation] 动画（播放控制）
+  * [iAnimResManager] 动画资源管理器
+
+内部数据结构
+  * [AnimElement] 动画元素
+  * [AnimData] 动画数据
+  * [Locus] 轨迹
+  * [Image] 图元
+
+可供使用的类
+  * [StepInterpolater] 阶跃插值器
+  * [LinearInterpolater] 线性插值器
+  * [BsplineInterpolater] b样条插值器
+  * [KeepMerger] 保持本节点融合器
+  * [GainMerger] 加法融合器
+  * [ReduceMerger] 减法融合器
+  * [MultMerger] 乘法融合器
+  * [SaturateMerger] 饱和融合器
+  * [cStateMergerComposition] 融合器组合
+  * [FileStream] 简单文件流封装

@@ -1,0 +1,6 @@
+#summary One-sentence summary of this page.
+
+= iRenderer =
+渲染器接口，它负责将传入的iClipState状态参数正确的送交渲染器。
+
+注意，iClipState内保存的状态数量和意义都是自定义的，可以根据渲染器支持的功能来实现。

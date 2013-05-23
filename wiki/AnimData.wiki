@@ -1,0 +1,10 @@
+#summary AnimData
+
+= Introduction =
+
+AnimData是一段动画的描述数据，由若干个动画元素([AnimElement])构成，元素按父子节点关系形成若干个树状结构。
+
+= Details =
+
+每个动画数据由[AnimResManager]加载得到，同时与一个特定的渲染器绑定。
+动画数据需要绑定到一个[iAnimation]上以便被控制播放。

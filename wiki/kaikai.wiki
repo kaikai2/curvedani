@@ -1,0 +1,34 @@
+#labels Deprecated
+{{{
+*start|开始了
+@bg storage=bgimage\bg.jpg
+
+*start2
+@cl
+@bgm storage=bgm\smlz.mp3
+欢迎来到kaikai的世界！[lr]
+先请回答我一个问题吧[lr]
+你的性别是...[lr]
+[link target=*gender_boy]男[endlink][r]
+[link target=*gender_girl]女[endlink][r]
+[link exp="kag.close()"]不玩了[endlink][r]
+[s]
+
+*gender_boy|第一章
+@cl
+唉,又是男的.[lr]
+@bgm storage=bgm\boy.mp3
+...[lr]
+...[lr]
+...[lr]
+结束了,别点了[lr]
+[link target=*start2]重新开始[endlink][r]
+[s]
+
+*gender_girl|第二章
+@cl
+@bgm storage=bgm\girl.mp3
+哇哈哈哈,欢迎欢迎~[lr]
+[link target=*start2]重新开始[endlink][r]
+[s]
+}}}

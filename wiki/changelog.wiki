@@ -1,0 +1,15 @@
+#summary changelog
+
+v0.4
+
+ * curvedani
+  # pre sort animation elements at load time
+  # support multiplex in merge operation
+  # move StateMergerComposition to curvedani
+ * glport
+  # fix inherited scale bug
+  # include glaux in third
+ * hgeport
+  # include hge 1.8.1 in third
+
+ 

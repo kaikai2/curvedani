@@ -1,0 +1,7 @@
+#summary GainMerger
+
+= Introduction =
+
+GainMerger加法融合器，返回当前节点与父节点状态的和
+
+= Details =

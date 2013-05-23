@@ -1,0 +1,8 @@
+#summary logo define
+
+= logo设计 =
+
+http://curvedani.googlecode.com/files/curvedanilogog.PNG
+
+= 字体与配色 =
+<Ariel,30,AABBEE>C<Ariel,42,AABBEE>urved<Ariel,30,EEBBAA>A<Ariel,42,EEBBAA>n<Ariel,31,EEBBAA>i

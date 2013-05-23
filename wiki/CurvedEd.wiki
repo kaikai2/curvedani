@@ -1,0 +1,10 @@
+#summary curved animation editor design
+#labels Featured
+
+= 介绍 =
+ * CurvedEd 这是一个所见即所得的编辑动画轨迹。
+ * 需要支持多种不同渲染器插件实现实时的回放。
+ * 支持若干种简单类型的轨迹编辑视图，并提供自定义类型轨迹编辑视图扩展接口。
+
+= 开发计划 =
+ * 尚未制定

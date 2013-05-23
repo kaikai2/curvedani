@@ -1,0 +1,8 @@
+#summary Image
+
+= Introduction =
+
+Image是图片的抽象，它由一个纹理以及在其上的矩形区域来定义。
+
+= Details =
+

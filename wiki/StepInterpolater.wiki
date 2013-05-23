@@ -1,0 +1,9 @@
+#summary StepInterpolater
+
+= Introduction =
+
+StepInterpolater阶跃插值器，返回数据中不超过给定自变量中最大的一组数据的值。
+
+= Details =
+
+模版参数类型需要支持赋值操作

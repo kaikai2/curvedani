@@ -1,0 +1,7 @@
+#summary ReduceMerger
+
+= Introduction =
+
+GainMerger减法融合器，返回当前节点与父节点状态的差
+
+= Details =

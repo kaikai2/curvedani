@@ -1,0 +1,11 @@
+#summary AnimElement
+
+= Introduction =
+
+AnimElement是动画中的一个节点。它可以拥有一组轨迹([Locus])。
+
+
+= Details =
+
+该数据由CurvedAni加载时得到。
+外部无法访问。

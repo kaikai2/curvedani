@@ -1,0 +1,7 @@
+#summary MultMerger
+
+= Introduction =
+ 
+MultMerger乘法重合器，返回当前节点与父节点状态的积
+
+= Details =
